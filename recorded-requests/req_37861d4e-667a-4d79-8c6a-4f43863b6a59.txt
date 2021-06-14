@@ -1,0 +1,12 @@
+POST https://petstore.octoperf.com/actions/Order.action HTTP/2.0
+accept: text/html, application/xhtml+xml, image/jxr, */*
+referer: https://petstore.octoperf.com/actions/Order.action?newOrderForm=
+accept-language: en-US,en;q=0.5
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+content-type: application/x-www-form-urlencoded
+accept-encoding: gzip, deflate
+content-length: 561
+cache-control: no-cache
+cookie: JSESSIONID=AEEFFCE38F9C8A0EB5E0FA7B2972D634
+
+order.cardType=Visa&order.creditCard=999+9999+9999+9999&order.expiryDate=12%2F03&order.billToFirstName=ABC&order.billToLastName=XYX&order.billAddress1=901+San+Antonio+Road&order.billAddress2=MS+UCUP02-206&order.billCity=Palo+Alto&order.billState=CA&order.billZip=94303&order.billCountry=USA&newOrder=Continue&_sourcePage=GtzozHOQ863oKwRM0g6J66fcY1ktVmItvWYqMUjnS2FWiyt8V0IhjtKPdF7N1atm37D5ryvvM1y_qwl2-YCxjC36SF25WJAA5pzX9xf-irw%3D&__fp=zv8XZpbwpfrPFzO46l4SjZizzUygzmqnLgNTzGy0urp-WHIfZobAvUhWADRpciPo2vNnB6_gl8ujb7PO_jYQFsmLNpVqUTiM6teL3iIvhfImo2lO4QSnKg%3D%3D

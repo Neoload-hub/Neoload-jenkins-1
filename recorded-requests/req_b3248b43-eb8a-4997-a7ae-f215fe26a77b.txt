@@ -1,0 +1,8 @@
+GET https://petstore.octoperf.com/actions/Account.action?signoff= HTTP/2.0
+accept: text/html, application/xhtml+xml, image/jxr, */*
+referer: https://petstore.octoperf.com/actions/Order.action?newOrder=&confirmed=true
+accept-language: en-US,en;q=0.5
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+accept-encoding: gzip, deflate
+cookie: JSESSIONID=AEEFFCE38F9C8A0EB5E0FA7B2972D634
+

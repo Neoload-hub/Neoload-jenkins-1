@@ -1,0 +1,12 @@
+POST https://petstore.octoperf.com/actions/Account.action HTTP/2.0
+accept: text/html, application/xhtml+xml, image/jxr, */*
+referer: https://petstore.octoperf.com/actions/Account.action;jsessionid=AEEFFCE38F9C8A0EB5E0FA7B2972D634?signonForm=
+accept-language: en-US,en;q=0.5
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+content-type: application/x-www-form-urlencoded
+accept-encoding: gzip, deflate
+content-length: 233
+cache-control: no-cache
+cookie: JSESSIONID=AEEFFCE38F9C8A0EB5E0FA7B2972D634
+
+username=j2ee&password=****************&signon=Login&_sourcePage=esU2YqHlUt4v67D3gjpoPELmL_zONjVgPPs7uAkJQNI6CH_z1oPG_s2dn5janvmx4f-JpWPadk0s65VPw37kC1_iVTfOYkjmyYw_j25TRHU%3D&__fp=8hF6DBv1qD7kmOYm5jJhAt8WZb5Z8wxr9Pjod46ojAJKb10ZpoGJj7D9TjY77NHC

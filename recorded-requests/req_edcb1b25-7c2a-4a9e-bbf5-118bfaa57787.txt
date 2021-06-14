@@ -1,0 +1,12 @@
+POST https://petstore.octoperf.com/actions/Account.action HTTP/2.0
+accept: text/html, application/xhtml+xml, image/jxr, */*
+referer: https://petstore.octoperf.com/actions/Account.action?editAccountForm=
+accept-language: en-US,en;q=0.5
+user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+content-type: application/x-www-form-urlencoded
+accept-encoding: gzip, deflate
+content-length: 771
+cache-control: no-cache
+cookie: JSESSIONID=5A1715C939FEA589CA1E32A3455E16DD
+
+password=****************&repeatedPassword=****************&account.firstName=ABC&account.lastName=de&account.email=yourname@yourdomain.com&account.phone=555-555-5555&account.address1=901+San+Antonio+Road&account.address2=MS+UCUP02-206&account.city=Palo+Alto&account.state=CA&account.zip=94303&account.country=USA&account.languagePreference=english&account.favouriteCategoryId=DOGS&account.listOption=true&account.bannerOption=true&editAccount=Save+Account+Information&_sourcePage=d3I0O85607fCKaF-bAo01FfQDQ0BUHDPReDqLZ7Bt4nudK9BtEadwPQWcWJYlfpn3rXcpcwCYvUrSLL_22rgPRBIZRcXDcg8ypCLXlxtnIdZf_F8gsrdpg%3D%3D&__fp=jDnhhoJgyzd7J68uSkAIFMnNgrZigpzyNT3fv65N7MZf9DNDEH-NNKWUWVCaNpYbOFOk0XVgxNmH1YJIRBPzDFGTnfWALyM6Yuz8eMyFDKT3c_L6EsR9_5qN-dr9uBGbqG26EYAJ12CvbybbMPz1wZxQckTzdu7i8a8Ahz4zQgnvIsTrAVN5YEXkRZxo5xOT

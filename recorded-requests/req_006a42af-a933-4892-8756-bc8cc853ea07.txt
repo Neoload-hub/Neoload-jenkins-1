@@ -1,0 +1,20 @@
+POST https://petstore.octoperf.com/actions/Account.action HTTP/2.0
+content-length: 808
+cache-control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"
+sec-ch-ua-mobile: ?0
+upgrade-insecure-requests: 1
+origin: https://petstore.octoperf.com
+content-type: application/x-www-form-urlencoded
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+referer: https://petstore.octoperf.com/actions/Account.action?newAccountForm=
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: JSESSIONID=34CAE564AD53B88A76E961A7A4E9D3BB
+
+username=vishnu&password=****************&repeatedPassword=****************&account.firstName=vishnu&account.lastName=vardhan&account.email=ddffdjd%40gmail.com&account.phone=09949367123&account.address1=Shopno.13%2C+123%2Fa%2C+Irla+Society+Road%2C+Opp.papilon+Rest%2C+Vile+Parle+%28west%29&account.address2=uppal&account.city=Mumbai&account.state=Maharashtra&account.zip=400056&account.country=India&account.languagePreference=english&account.favouriteCategoryId=FISH&newAccount=Save+Account+Information&_sourcePage=3wE-cEln00Vw7dBsmtu-CnTUC7_fRy8etVv2CJfPNxF2dcYmDX5DEcFllV1DMeiEwr--J8Kj1rJwIlFG5KlcPA-X32FyH-fUSjNmAh8Qt-w%3D&__fp=dVmtNksQpgwgSWUdRmCcuQP7rEkoUpY4CiFCFBGEwwY6QEzdFhImdgsYVir1qflo3sImnkZ1lcMyKA92nxa2p3MTDsGq5PBia1dCEMQkqctG80noIIopdepW7GKi3oY5a9iIsT0W1VC2QmNiQ2lmxUUfgD97YLJxnU_zwsRJALgGYFXz5F2JuzN7AxzyQbP6
