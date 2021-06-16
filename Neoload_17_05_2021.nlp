@@ -11,3 +11,4 @@ project.id=aaec57ce-fc0d-439e-b795-c21620646f1e
 project.config.path=config.zip
 project.config.storage=ZIP
 team.server.enabled=false
+team.server.enabled=true
